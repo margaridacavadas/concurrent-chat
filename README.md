@@ -1,5 +1,6 @@
 # concurrent-chat
 TCP server-client concurrent chat, for local network.
+Documentation can be generated if needed.
 
 ## TCP Server:
 Must define the port in use.
