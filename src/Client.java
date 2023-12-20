@@ -3,6 +3,10 @@ import java.net.Socket;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * Developed by Margarida Cavadas - 10/2023
+ */
+
 /** Chat client
  * <p>
  * Client side application that connects to a server. It sends and receives messages to and from other clients.

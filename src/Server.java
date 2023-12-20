@@ -6,6 +6,9 @@ import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+/**
+ * Developed by Margarida Cavadas - 10/2023
+ */
 
 /** Chat server.
  * <p>
